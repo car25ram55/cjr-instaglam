@@ -12,7 +12,7 @@ body {
     display: flex;
 }
 
-.wrapper {
+.post {
     margin: 50px auto;
     background-color: #fff;
     width: 500px;
@@ -64,11 +64,11 @@ img {
     display: inline;
 } 
 
-.fa-comment, .fa-paper-plane {
+.comment1, .paper-plane1 {
     margin-left: 10px;
 }
 
-.fa-comment, .fa-paper-plane {
+.comment2, .paper-plane2 {
     margin-left: auto;
 }
 
